@@ -1,0 +1,16 @@
+name: Product Backlog
+description: A prioritized list of features, enhancements, and fixes that serves as
+  the single source of requirements for product development, typically used in Agile
+  and Scrum methodologies. Teams use it to align stakeholders, track progress, and
+  adapt to changing requirements throughout the project lifecycle.
+url: https://www.scrum.org/resources/what-is-a-product-backlog
+tags:
+- Agile
+- Scrum
+- Project Management
+- Requirements Management
+- Product Management
+created: '2025'
+modified: '2025'
+apis: []
+common: []
