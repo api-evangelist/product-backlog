@@ -9,9 +9,20 @@ description: >-
   continuously as new requirements emerge and priorities shift, providing
   development teams with a clear, ordered view of upcoming work.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Concept
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/product-backlog.png
 tags:
   - Agile
   - Project Management
